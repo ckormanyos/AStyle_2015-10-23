@@ -32,6 +32,7 @@
     <ClInclude Include="src\astyle_main.h" />
   </ItemGroup>
   <ItemGroup>
+    <None Include=".github\workflows\astyle.yml" />
     <None Include="doc\astyle.html" />
     <None Include="doc\index.html" />
     <None Include="doc\install.html" />
@@ -43,6 +44,7 @@
     <None Include="doc\styles.css" />
     <None Include="doc\subversion.html" />
     <None Include="doc\vsinstall.html" />
+    <None Include="README.md" />
     <None Include="sample\astyle_sample.bat" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

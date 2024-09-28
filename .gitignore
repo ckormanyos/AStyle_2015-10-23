@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+.vs/
+AStyle/x64/
+x64/Release/AStyle.pdb
+x64/Debug/AStyle.pdb

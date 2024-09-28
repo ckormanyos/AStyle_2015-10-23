@@ -2,6 +2,8 @@ AStyle_2015-10-23
 ==================
 
 <p align="left">
+    <a href="https://github.com/ckormanyos/AStyle_2015-10-23/actions">
+        <img src="https://github.com/ckormanyos/AStyle_2015-10-23/actions/workflows/astyle.yml/badge.svg" alt="Build Status"></a>
     <a href="https://github.com/ckormanyos/AStyle_2015-10-23/blob/main/LICENSE">
         <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT"></a>
 </p>
@@ -22,5 +24,5 @@ I was so happy with this version, that I froze it here.
 ## Further modifications
 
   - This fork has been modified to include an MSVC vs2022 workspace.
-  - TODO: Continuous integration on GHA has been added.
-  - TODO: Occasional releases.
+  - Continuous integration on GHA has been added.
+  - Occasional releases.
