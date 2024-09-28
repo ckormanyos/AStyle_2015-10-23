@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source Files\src">
+      <UniqueIdentifier>{a6983dd2-d227-4ad8-98b4-4f1ec94faadc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\doc">
+      <UniqueIdentifier>{43c939b3-31b3-42c6-a583-c8545c799403}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\sample">
+      <UniqueIdentifier>{db5d8ecf-2862-4a62-bef2-66f35b868a4c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\ASBeautifier.cpp">
+      <Filter>Source Files\src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ASEnhancer.cpp">
+      <Filter>Source Files\src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ASFormatter.cpp">
+      <Filter>Source Files\src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ASLocalizer.cpp">
+      <Filter>Source Files\src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ASResource.cpp">
+      <Filter>Source Files\src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\astyle_main.cpp">
+      <Filter>Source Files\src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\ASLocalizer.h">
+      <Filter>Source Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\astyle.h">
+      <Filter>Source Files\src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\astyle_main.h">
+      <Filter>Source Files\src</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="doc\astyle.html">
+      <Filter>Source Files\doc</Filter>
+    </None>
+    <None Include="doc\index.html">
+      <Filter>Source Files\doc</Filter>
+    </None>
+    <None Include="doc\install.html">
+      <Filter>Source Files\doc</Filter>
+    </None>
+    <None Include="doc\license.html">
+      <Filter>Source Files\doc</Filter>
+    </None>
+    <None Include="doc\links.html">
+      <Filter>Source Files\doc</Filter>
+    </None>
+    <None Include="doc\news.html">
+      <Filter>Source Files\doc</Filter>
+    </None>
+    <None Include="doc\notes.html">
+      <Filter>Source Files\doc</Filter>
+    </None>
+    <None Include="doc\scripts.html">
+      <Filter>Source Files\doc</Filter>
+    </None>
+    <None Include="doc\styles.css">
+      <Filter>Source Files\doc</Filter>
+    </None>
+    <None Include="doc\subversion.html">
+      <Filter>Source Files\doc</Filter>
+    </None>
+    <None Include="doc\vsinstall.html">
+      <Filter>Source Files\doc</Filter>
+    </None>
+    <None Include="sample\astyle_sample.bat">
+      <Filter>Source Files\sample</Filter>
+    </None>
+  </ItemGroup>
+</Project>
