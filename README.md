@@ -24,5 +24,6 @@ I was so happy with this version, that I froze it here.
 ## Further modifications
 
   - This fork has been modified to include an MSVC vs2022 workspace.
+  - Run the `AStyle` source code itself through `AStyle`.
   - Continuous integration on GHA has been added.
   - Occasional releases.
